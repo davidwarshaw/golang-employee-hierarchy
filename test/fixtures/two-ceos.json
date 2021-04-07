@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "A", "salary": 1, "manager_id": 0 },
+    { "id": 2, "name": "B", "salary": 2, "manager_id": 1 },
+    { "id": 3, "name": "C", "salary": 3, "manager_id": 2 },
+    { "id": 4, "name": "D", "salary": 4, "manager_id": 0 },
+    { "id": 5, "name": "E", "salary": 5, "manager_id": 4 },
+    { "id": 6, "name": "F", "salary": 6, "manager_id": 3 }
+]
